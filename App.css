@@ -1,0 +1,21 @@
+/* App.css */
+.appContainer {
+  padding: 20px;
+}
+
+.logo {
+  max-width: 150px;
+  margin-top: 10px;
+}
+
+.formControl {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.customButton {
+  background-color: #007bff;
+  color: white;
+}
+
+/* Add more styles as needed */
